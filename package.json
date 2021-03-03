@@ -11,7 +11,7 @@
   "author": "Juha Lindstedt",
   "license": "ISC",
   "devDependencies": {
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "puppeteer": "^2.1.1"
   },
   "dependencies": {},
